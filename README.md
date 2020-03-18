@@ -7,8 +7,8 @@
 [![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/tapaswenipathak/Open-Source-Programs.svg?label=Open-Source-Programs&style=social)](https://twitter.com/intent/tweet?text=Open%20Source%20Programs:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FOpen-Source-Programs)
 
-| Name                                    | Stipend | Timeline            |
-|-----------------------------------------|-------------|-----------------|
+| Name                                    | Stipend | Timeline            | Applied? |
+|-----------------------------------------|-------------|-----------------| ------------|
 | [Season of Docs](https://developers.google.com/season-of-docs/) | Yes | [timeline](https://developers.google.com/season-of-docs/docs/timeline) |
 | [Season of KDE](https://season.kde.org) | No      | [timeline](https://dot.kde.org/2017/11/19/announcing-season-kde-2018) |
 | [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes | [timeline](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017#Timeplan) |
